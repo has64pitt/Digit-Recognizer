@@ -1,2 +1,0 @@
-https://www.kaggle.com/cdeotte/keras-unet-with-eda
-You can use this for the competition. If you click the Output tab of this kernel, there is a file called UNET.h5. That's the trained network. Click the button New Dataset, that will save the file to a new Kaggle dataset. Next, goto that dataset and click New Kernel, that will start a new kernel with UNET.h5. Inside that kernel, load the network, and predict test.csv. Finally submit that second kernel to Kaggle competition. This competition allows datasets.
